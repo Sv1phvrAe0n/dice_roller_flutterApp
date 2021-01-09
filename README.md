@@ -1,4 +1,4 @@
-# roll_a_dice
+# roll_a_die
 
 A new Flutter application.
 
